@@ -34,8 +34,8 @@ We welcome contributions! If you’re passionate about AI, architecture, or bloc
 ---
 
 ### **🔗 Stay Connected**  
-🌐 Website: @kerpoostudio  
-💼 LinkedIn: @Kerpoo 
+🌐 Website: https://kerpoostudio.com/  
+💼 LinkedIn: @Kerpino 
 📷 Instagram: @kerpoostudio 
 
 🚀 *Let’s shape the future of AI-powered architecture together!*  
